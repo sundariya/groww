@@ -6,13 +6,13 @@ Search image with api calls.
 ![Alt text](/src/assets/images/list.png?raw=true "Title")
 
 ## Getting Started
-to install packages *yarn"*;
+to install packages    **yarn**;
 
-to install in androd  *react-native run-android*
+to install in androd  **react-native run-android**
 
-to install in ios     *react-native run-ios*
+to install in ios     **react-native run-ios**
 
-to start  packeger    *react-native start
+to start  packeger    **react-native start**
 
 ### Prerequisites
 
