@@ -2,7 +2,8 @@
 
 Search image with api calls.
 
-![Alt text](/src/assets/images/background.jpg?raw=true "Title")
+![Alt text](/src/assets/images/home.png?raw=true "Title")
+![Alt text](/src/assets/images/list.png?raw=true "Title")
 
 ## Getting Started
 to install packages *yarn"*;
